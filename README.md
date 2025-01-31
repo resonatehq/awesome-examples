@@ -7,4 +7,4 @@ An opinionated list of awesome Resonate example apps.
 
 
 ## Human-in-the-Loop
-* [Email approval](https://github.com/Tomperez98/human-in-the-loop/tree/main)
+* [Email approval](https://github.com/Tomperez98/human-in-the-loop/tree/main) - Minimal python example demo that implements an approval workflow
