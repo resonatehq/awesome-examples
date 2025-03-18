@@ -1,7 +1,6 @@
 # Awesome Resonate example apps
 
-The following is a list of awesome example applications that showcase how special Resonate is:
-An opinionated list of awesome Resonate applications.
+The following is a list of awesome example applications that showcase how special Resonate is.
 
 ## [Human approval via email](https://github.com/Tomperez98/human-in-the-loop/tree/main)
 
