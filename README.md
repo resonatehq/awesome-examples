@@ -4,7 +4,7 @@ The following is a list of awesome example applications that showcase how specia
 
 ## [Human approval via email](https://github.com/Tomperez98/human-in-the-loop/tree/main)
 
-Written with the Resonate Python SDK, this is a minimal example that implements a workflow that blocks and waits for input from a human.
+Written with the Resonate Python SDK, this is a minimal example that implements a workflow that blocks and waits on input from a human.
 
 ## [NomNomNow food delivery](https://github.com/flossypurse/nomnomnow)
 
