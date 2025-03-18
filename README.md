@@ -20,3 +20,11 @@ Written with the Resonate Python SDK, this example showcases Resonate's asynchro
 
 Written with the Resonate Python SDK, this example integrates Flask, Resonate, BeautifulSoup, and Ollama into a website summarization application.
 The workflow is durable to crash failures and can be load balanced by running multiple instances of the app.
+
+### [Basic webservers](https://github.com/resonatehq/example-webservers-py)
+
+Written with the Resonate Python SDK, this example repository showcases how to integrate Resonate into the popular webserver frameworks:
+
+- Django
+- Flask
+- FastAPI
