@@ -32,3 +32,7 @@ Written with the Resonate Python SDK, this example repository showcases how to i
 ### [Resonator | Distributed calculator](https://github.com/dfarr/resonator)
 
 Written with the Resonate Python SDK, Resonator is a distributed calculator that can calculate basic arithmetic expressions that contain numbers and the symbols `( ) + - *`
+
+### [Function-As-A-Service (FaaS) infra example](https://github.com/avillega/resonate-faas-demo)
+
+Written with the Resonate Python SDK, this example showcases Resonate's ability to facilitate the creation of FaaS infrastructure.
