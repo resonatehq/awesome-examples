@@ -28,3 +28,7 @@ Written with the Resonate Python SDK, this example repository showcases how to i
 - Django
 - Flask
 - FastAPI
+
+### [Resonator | Distributed calculator](https://github.com/dfarr/resonator)
+
+Written with the Resonate Python SDK, Resonator is a distributed calculator that can calculate basic arithmetic expressions that contain numbers and the symbols `( ) + - *`
