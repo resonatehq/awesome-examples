@@ -4,6 +4,14 @@ The following is a list of awesome example applications that showcase how specia
 
 ## Python
 
+### [Async RPC](https://github.com/resonatehq/example-async-rpc-py)
+
+Written with the Resonate Python SDK, this example showcases Resonate's asynchronous RPC APIs across multiple services in the context of 3 different request flows: Await Chain, Detached Chain, and a Fan-out Workflow.
+
+### [Batch record deletion with RedPanda](https://github.com/resonatehq/example-batch-record-deletion-py)
+
+This is an example app showcasing what a RedPanda + Resonate pipeline might look like in the context of a "batch record deletion" use case.
+
 ### [Human approval via email](https://github.com/resonatehq/example-human-in-the-loop)
 
 Written with the Resonate Python SDK, this is a minimal example that implements a workflow that blocks and waits on input from a human.
@@ -11,10 +19,6 @@ Written with the Resonate Python SDK, this is a minimal example that implements 
 ### [NomNomNow food delivery](https://github.com/flossypurse/nomnomnow)
 
 Written with the Resonate Python SDK, this application showcases a multi-step order workflow that, once started, requires input from a restaurant and a driver. It also showcases Resonate's asynchronous RPC APIs across multiple services. It includes an interactive UI that updates as the order progresses.
-
-### [Resonate is async RPC](https://github.com/flossypurse/resonate-is-async-rpc)
-
-Written with the Resonate Python SDK, this example showcases Resonate's asynchronous RPC APIs across the services foo, bar, and baz in the context of 3 different request flows: chain, fan-out, and fire-and-forget.
 
 ### [Durable website summarization app](https://github.com/resonatehq/example-website-summarization-app)
 
