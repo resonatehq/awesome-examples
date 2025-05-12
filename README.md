@@ -1,4 +1,4 @@
-# Awesome Resonate example apps
+# Resonate example apps
 
 The following is a list of awesome example applications that showcase how special Resonate is.
 
