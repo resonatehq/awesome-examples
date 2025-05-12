@@ -1,4 +1,4 @@
-# Awesome Resonate example apps
+# Resonate example apps
 
 This repository serves as a directory of example applications that developers can reference to learn more about Resonate.
 
