@@ -6,13 +6,13 @@ The following is a list of example apps written primarily in Python and uses Res
 
 Written with the Resonate Python SDK, this example showcases Resonate's asynchronous RPC APIs across multiple services in the context of 3 different request flows: Await Chain, Detached Chain, and a Fan-out Workflow.
 
+### [Human-In-The-Loop](https://github.com/resonatehq/example-human-in-the-loop)
+
+Written with the Resonate Python SDK, this is a minimal example that implements a workflow which blocks indefinitely, waiting on input from a human.
+
 ### [Batch record deletion with RedPanda](https://github.com/resonatehq/example-batch-record-deletion-py)
 
 This is an example app showcasing what a RedPanda + Resonate pipeline might look like in the context of a "batch record deletion" use case.
-
-### [Human approval via email](https://github.com/resonatehq/example-human-in-the-loop)
-
-Written with the Resonate Python SDK, this is a minimal example that implements a workflow that blocks and waits on input from a human.
 
 ### [NomNomNow food delivery](https://github.com/flossypurse/nomnomnow)
 
